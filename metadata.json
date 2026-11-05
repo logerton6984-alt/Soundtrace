@@ -1,0 +1,6 @@
+{
+  "name": "SoundTrace",
+  "description": "Discover new artists based on your favorite songs and musical influences with deep sonic matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
